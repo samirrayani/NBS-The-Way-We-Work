@@ -1,0 +1,6 @@
+# Sublime SFTP config
+sftp-config.json
+
+# Hidden files
+._*
+.DS_Store
