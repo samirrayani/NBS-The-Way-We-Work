@@ -5,7 +5,7 @@ The Way We Work
 
 This guide will lead you through why, on what, and how we work.
 
-1. **[Purpose & Values](Purpose & Values)**<br>
+1. **[Purpose & Values](Purpose \& Values)**<br>
 	Why we do what we do.
 
 2. **[Standards](Standards)**<br>
